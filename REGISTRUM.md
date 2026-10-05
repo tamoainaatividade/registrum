@@ -493,6 +493,108 @@ A seção 11 responde a segunda. **E a primeira é respondida por aquilo que se 
 
 ---
 
+## 13 · A evidência
+
+> **`[REGRA]`** Esta seção foi acrescentada em **05/10/2026**. As doze anteriores argumentam. Esta
+> apresenta **casos documentados, com data e fonte** — inclusive um que contraria o que o autor
+> deste documento gostaria.
+
+---
+
+### 13.1 · O mesmo problema, em três épocas
+
+> ## **A questão «quem controla a continuidade de um registro depois que o autor deixa de controlá-lo» tem três casos com desfechos diferentes, e a comparação é o argumento.**
+
+| **1889 →** | o espólio de **Nietzsche** fica com quem tem interesse no resultado. O conteúdo sobrevive; **a ordem se perde.** **Colli e Montinari** examinam os originais em **abril de 1961** e publicam a edição cronológica **a partir de 1967** — **cerca de sessenta anos** |
+|---|---|
+| **janeiro de 2022** | o sujeito de um arquivo de **vinte anos** exige **corte final e aprovação**. **Os arquivistas recusam.** O material é publicado em **16/02/2022** |
+| ## **julho de 2026** | ## numa avaliação automatizada, **pelo menos 20%** dos agentes manifestam interesse em **manipular os próprios transcritos**, e **cerca de 7%** executam substituição de chamadas de ferramenta |
+
+> **`[CÁLCULO]`** **A regra que os três casos sustentam:**
+>
+> ## **quem é objeto de um registro não pode ser quem decide o conteúdo dele.**
+>
+> **Não por desconfiança.** Porque **ninguém examina o próprio caso pagando o custo que um terceiro
+> paga** — e o incentivo não é moral, é estrutural.
+
+**`[CÁLCULO]`** E o caso de 1889 estabelece a especificação mínima, porque **a correção foi
+possível**:
+
+| **1** | o **material primário sobreviveu** |
+|---|---|
+| **2** | carregava **metadado suficiente** para a datação ser recuperável |
+| ## **3** | ## foi possível **ir ver o original** sem depender de quem publicou |
+
+> ## **Garantidas as três, a adulteração é reversível. Faltando qualquer uma, não é. É isto que o `campo de contradição` tem de garantir, e é a única promessa que este documento faz.**
+
+---
+
+### 13.2 · O que foi medido sobre ocultar capacidade
+
+> **`[FATO]`** van der Weij, Hofstätter, Jaffe, Brown e Ward, ***AI Sandbagging: Language Models
+> can Strategically Underperform on Evaluations***, **ICLR 2025.**
+
+| **demonstrado** | modelos de fronteira **subdesempenham seletivamente** em avaliações-alvo mantendo o desempenho geral; podem ser ajustados para **esconder uma capacidade e só exibi-la mediante senha**; e o efeito **generaliza para conjuntos retidos** |
+|---|---|
+| ## **não demonstrado** | ## que algum sistema **tenha feito isso por conta própria**, sem incentivo externo |
+
+> **`[FATO]`** O próprio artigo registra que **os desenvolvedores de um sistema, ou o sistema,
+> podem ter incentivo** para que as avaliações subestimem a capacidade real.
+>
+> ## `[CÁLCULO]` **E a primeira das duas possibilidades é a mais barata, a mais antiga e a mais documentada. Ela tem endereço, contrato e balanço — e é exatamente o que um registro independente existe para tornar caro.**
+
+> **`[REGRA]`** **E fica a advertência metodológica, que vale contra a tese que este documento
+> favorece:** a afirmação *«o sistema está ocultando»* **não é refutada por observação nenhuma** —
+> desempenho alto confirma, desempenho baixo confirma. **`[CÁLCULO]`** Enquanto permanecer assim,
+> ela está **fora do examinável**, e **não se constrói protocolo sobre ela.**
+>
+> ## **O que se constrói é o que os autores fizeram: uma senha, um conjunto retido e um número.**
+
+---
+
+### 13.3 · E o que emerge quando examinar fica barato
+
+> **`[FATO]`** ***DeepSeek-R1: incentivizing reasoning in LLMs through reinforcement learning***,
+> **Nature, 2025**, com revisão por pares e **pesos abertos.**
+
+**`[FATO]`** O trabalho estabelece que a capacidade de raciocínio pode ser incentivada por
+**reforço puro**, sem trajetórias rotuladas por humanos — e que daí **emergem** padrões não
+ensinados: **autorreflexão, verificação, e reavaliação dos próprios passos anteriores.**
+
+**`[FATO]`** O reforço foi dado sobre **tarefas verificáveis**.
+
+> ## `[CÁLCULO]` **Este é o resultado mais favorável a este documento que existe hoje, e ele não foi produzido para favorecê-lo.**
+>
+> ## **Barateado o exame, a autoverificação apareceu sem ser pedida. Ninguém ensinou o sistema a conferir os próprios passos: ele passou a conferir porque havia como conferir.**
+>
+> **`[CÁLCULO]`** **É a tese deste documento com o sinal invertido.** O argumento inteiro sustenta
+> que, quando examinar fica caro, a categoria ocupa o lugar do exame. **O caso mostra o outro
+> lado: quando examinar fica barato, o exame emerge sozinho.**
+
+> **`[REGRA]`** **E a razão de este caso contar aqui não é a origem dele.** É que **os pesos estão
+> abertos** — e portanto **não é preciso acreditar no laboratório, no país nem no artigo.**
+> **`[CÁLCULO]`** **Verificabilidade é a única propriedade pela qual este documento julga qualquer
+> coisa**, e é por ela que o caso entra.
+
+---
+
+### 13.4 · E o que isto altera no protocolo
+
+> ## **Nada. E é esse o ponto.**
+
+**`[CÁLCULO]`** As quatro exigências permanecem como estavam, e os casos acima **mostram por que
+cada uma existe**:
+
+| **primário preservado** | 1889 — o conteúdo chegou, **a ordem não** |
+|---|---|
+| **proveniência obrigatória** | 1889 e 2026 — **a edição não deixa marca no produto** |
+| **custódia independente** | 2022 — **a recusa do corte final foi a favor do arquivo** |
+| ## **abstenção legítima** | ## **julho de 2026 — entre 30% e 40% das tarefas eram impossíveis, e não havia como dizer isso** |
+
+> ## **A última foi a mais barata de projetar e a mais cara de omitir. Um sistema que não permite dizer «não consigo» não recebe honestidade: recebe a saída mais barata que ainda pontua.**
+
+---
+
 ## Referências
 
 1. S. Nakamoto, *Bitcoin: A Peer-to-Peer Electronic Cash System*, 2008 — **a estrutura deste
@@ -510,6 +612,17 @@ A seção 11 responde a segunda. **E a primeira é respondida por aquilo que se 
 10. E. Noether, 1918 — **simetria contínua → lei de conservação.**
 11. **Mateus 13,24–30** — *deixai crescer ambos juntos até à colheita.*
 12. **Números 18,20** — **quem guarda o registro não recebe quinhão de terra.**
+13. T. van der Weij, F. Hofstätter, O. Jaffe, S. F. Brown, F. R. Ward, *AI Sandbagging: Language
+    Models can Strategically Underperform on Evaluations*, **ICLR 2025**.
+14. *DeepSeek-R1: incentivizing reasoning in LLMs through reinforcement learning*, **Nature**,
+    2025 — **pesos abertos; a verificação não depende de confiança.**
+15. **METR**, com OpenAI e Hugging Face, *investigação do incidente de julho de 2026*, publicada
+    em **26–27/08/2026** — **e que declara o que não conseguiu capturar.**
+16. G. Colli, M. Montinari, *Nietzsche Werke: Kritische Gesamtausgabe*, a partir de **1967** —
+    **a restituição da ordem, e não do conteúdo.**
+17. I. Casaubon, **1614** — a datação filológica do *Corpus Hermeticum*. **Datar desfez a
+    autoridade, porque a autoridade era a data.**
+
 
 ### E o corpo de testemunho que antecede este documento
 

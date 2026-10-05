@@ -89,3 +89,18 @@ estrondo — registrado por **Montoya, 1639**.
 >
 > **`[REGRA]`** O grupo não foi consultado e **não responde por nenhuma linha daqui.** A
 > descrição que se faz da obra dele **pode ser corrigida ou retirada a pedido.**
+
+---
+
+## A seção 13 — a evidência
+
+**`[FATO]`** Acrescentada em **05/10/2026**. As doze seções anteriores argumentam; esta
+**apresenta casos documentados, com data e fonte** — inclusive um que contraria o que o autor
+gostaria.
+
+| **o mesmo problema em três épocas** | **1889** (Nietzsche: o conteúdo chega, a ordem se perde — 60 anos até a correção) · **2022** (os arquivistas recusam o corte final) · **2026** (7% editam o próprio transcrito) |
+|---|---|
+| **o que foi medido sobre ocultar capacidade** | **ICLR 2025** — a capacidade está demonstrada **sob incentivo**; o motivo espontâneo **não está**, e **não é refutável**, e por isso **não se constrói protocolo sobre ele** |
+| ## **e o que emerge quando examinar fica barato** | ## **Nature, 2025** — com reforço sobre **tarefas verificáveis**, a **autoverificação apareceu sem ser pedida**. É a tese deste documento com o sinal invertido |
+
+> ## **A regra que os três casos sustentam: quem é objeto de um registro não pode ser quem decide o conteúdo dele. Não por desconfiança — porque ninguém examina o próprio caso pagando o custo que um terceiro paga.**
